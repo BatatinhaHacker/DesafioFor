@@ -1,3 +1,4 @@
+
 const cardapio = {
     100: { nome: "Cachorro Quente", preco: 1.20 },
     101: { nome: "Bauru Simples", preco: 1.30 },
